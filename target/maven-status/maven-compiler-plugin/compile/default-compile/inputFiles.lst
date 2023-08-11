@@ -1,1 +1,12 @@
+C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\exception\GlobalExceptionHandler.java
+C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\entity\User.java
+C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\exception\EmailAlreadyExistsException.java
 C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\UserServiceApplication.java
+C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\service\UserService.java
+C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\dto\UserDto.java
+C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\exception\ErrorDetails.java
+C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\serviceimpl\UserServiceImpl.java
+C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\mapper\AutoUserMapper.java
+C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\controller\UserController.java
+C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\repository\UserRepository.java
+C:\TTRC\Repository\TTRC\user-service\src\main\java\com\ttrc\userservice\exception\ResourceNotFoundException.java
